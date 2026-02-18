@@ -1,10 +1,55 @@
-## Hi there 👋
+<h1 align="center">💻 POWER PLATFORM & FRONT-END DEVELOPER | IT SPECIALIST 💻</h1>
 
-# My Skills
+<p align="center">
+Hi! I'm <strong>John Doe</strong>, a passionate developer and IT enthusiast dedicated to creating efficient, user-friendly digital solutions.
+</p>
+
+---
+
+## 👨‍💻 About Me
+- 🔹 Experienced in **Power Platform (Power Apps, Power Automate, Power BI)**
+- 🔹 Skilled in **Front-End Development**: HTML, CSS, JavaScript, React
+- 🔹 Strong foundation in **IT Systems & Support**
+- 🔹 Passionate about **automation, optimization, and UX design**
+- 🔹 Lifelong learner committed to adopting new technologies
+
+---
+
+## 🛠️ My Skills
 
 <table>
 <tr>
-<td>Python</td>
-<td>JavaScript</td>
+<td><b>Power Platform</b></td>
+<td><b>Front-End</b></td>
+<td><b>IT & Tools</b></td>
+</tr>
+<tr>
+<td>Power Apps<br>Power Automate<br>Power BI</td>
+<td>HTML<br>CSS<br>JavaScript<br>React</td>
+<td>Windows & Linux<br>Networking<br>SQL<br>Azure</td>
 </tr>
 </table>
+
+---
+
+## 🌟 What I Do
+- Build **custom business applications** with Power Apps
+- Automate workflows using **Power Automate**
+- Visualize data insights with **Power BI dashboards**
+- Develop **responsive websites** and web applications
+- Provide **IT support and optimization** for organizations
+
+---
+
+## 📫 Connect With Me
+<p align="center">
+<a href="https://www.linkedin.com/in/your-profile" target="_blank">LinkedIn</a> |
+<a href="https://github.com/your-username" target="_blank">GitHub</a> |
+<a href="mailto:your.email@example.com">Email</a>
+</p>
+
+---
+
+<p align="center">
+“Turning ideas into digital reality, one line of code at a time.” 🚀
+</p>
