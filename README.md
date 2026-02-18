@@ -17,8 +17,8 @@ Hi! I'm <strong>CHMANGUI Yassine</strong>, a passionate developer and IT enthusi
 
 ## 🛠️ My Skills
 <p align="center">
-  <img src="https://raw.githubusercontent.com/username/username/main/assets/icons/SharePoint.svg" alt="SharePoint Online" width="35" height="35" />
-  <img src="https://raw.githubusercontent.com/username/username/main/assets/icons/Teams.svg" alt="Microsoft Teams" width="35" height="35" />
+  <img src="https://cdn-icons-png.flaticon.com/512/732/732221.png" alt="SharePoint Online" width="35" height="35" />
+  <img src="https://cdn-icons-png.flaticon.com/512/732/732255.png" alt="Microsoft Teams" width="35" height="35" />
   <img src="https://rinoreji.github.io/icon-collection/power-platform-icons/PowerApps_scalable.svg" alt="Power Apps" width="35" height="35" />
   <img src="https://rinoreji.github.io/icon-collection/power-platform-icons/PowerAutomate_scalable.svg" alt="Power Automate" width="35" height="35" />
   <img src="https://rinoreji.github.io/icon-collection/power-platform-icons/PowerBI_scalable.svg" alt="Power BI" width="35" height="35" />
