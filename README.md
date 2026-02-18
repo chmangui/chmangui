@@ -18,33 +18,14 @@ Hi! I'm <strong>CHMANGUI Yassine</strong>, a passionate developer and IT enthusi
 ## 🛠️ My Skills
 <p align="center">
   <!-- Power Platform -->
-  <img src="https://rinoreji.github.io/icon-collection/power-platform-icons/PowerApps_scalable.svg" alt="Power Apps" width="35" height="35" />
-  <img src="https://rinoreji.github.io/icon-collection/power-platform-icons/PowerAutomate_scalable.svg" alt="Power Automate" width="35" height="35" />
-  <img src="https://rinoreji.github.io/icon-collection/power-platform-icons/PowerBI_scalable.svg" alt="Power BI" width="35" height="35" />
-  <img src="https://rinoreji.github.io/icon-collection/power-platform-icons/Dataverse_scalable.svg" alt="Dataverse" width="35" height="35" />
+  <img src="https://rinoreji.github.io/icon-collection/power-platform-icons/PowerApps_scalable.svg" alt="Power Apps" width="35" height="35" style="background-color:#e0e0e0; border-radius:8px; padding:5px; margin:3px;" />
+  <img src="https://rinoreji.github.io/icon-collection/power-platform-icons/PowerAutomate_scalable.svg" alt="Power Automate" width="35" height="35" style="background-color:#e0e0e0; border-radius:8px; padding:5px; margin:3px;" />
+  <img src="https://rinoreji.github.io/icon-collection/power-platform-icons/PowerBI_scalable.svg" alt="Power BI" width="35" height="35" style="background-color:#e0e0e0; border-radius:8px; padding:5px; margin:3px;" />
+  <img src="https://rinoreji.github.io/icon-collection/power-platform-icons/Dataverse_scalable.svg" alt="Dataverse" width="35" height="35" style="background-color:#e0e0e0; border-radius:8px; padding:5px; margin:3px;" />
 
   <!-- SharePoint + Teams (self-hosted) -->
-  <img src="https://raw.githubusercontent.com/username/username/main/assets/icons/SharePoint.svg" alt="SharePoint Online" width="35" height="35" />
-  <img src="https://raw.githubusercontent.com/username/username/main/assets/icons/Teams.svg" alt="Microsoft Teams" width="35" height="35" />
-
-  <!-- Microsoft Office -->
-  <img src="https://cdn-icons-png.flaticon.com/512/732/732239.png" alt="Word" width="35" height="35" />
-  <img src="https://cdn-icons-png.flaticon.com/512/732/732221.png" alt="Excel" width="35" height="35" />
-  <img src="https://cdn-icons-png.flaticon.com/512/732/732208.png" alt="PowerPoint" width="35" height="35" />
-  <img src="https://cdn-icons-png.flaticon.com/512/732/732231.png" alt="Outlook" width="35" height="35" />
-  <img src="https://cdn-icons-png.flaticon.com/512/732/732228.png" alt="OneNote" width="35" height="35" />
-
-  <!-- Front-End -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="35" height="35" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="35" height="35" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="Sass" width="35" height="35" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="35" height="35" />
-
-  <!-- IT Administration & Support -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" alt="Windows" width="35" height="35"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="35" height="35"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="SQL" width="35" height="35"/>
-</p>
+  <img src="https://raw.githubusercontent.com/username/username/main/assets/icons/SharePoint.svg" alt="SharePoint Online" width="35" height="35" style="background-color:#e0e0e0; border-radius:8px; padding:5px; margin:3px;" />
+  <img src="https://raw.githubusercontent.com/username/
 
 ---
 
