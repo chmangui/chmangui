@@ -1,7 +1,7 @@
 <h1 align="center">💻 POWER PLATFORM & FRONT-END DEVELOPER | IT SPECIALIST 💻</h1>
 
 <p align="center">
-Hi! I'm <strong>John Doe</strong>, a passionate developer and IT enthusiast dedicated to creating efficient, user-friendly digital solutions.
+Hi! I'm <strong>CHMANGUI Yassine</strong>, a passionate developer and IT enthusiast dedicated to creating efficient, user-friendly digital solutions.
 </p>
 
 ---
@@ -15,19 +15,20 @@ Hi! I'm <strong>John Doe</strong>, a passionate developer and IT enthusiast dedi
 
 ---
 
+## 🛠️ My Skills
 <p align="center">
-  <img src="https://rinoreji.github.io/icon-collection/power-platform-icons/PowerApps_scalable.svg" alt="Power Apps" width="45" height="45" />
-  <img src="https://rinoreji.github.io/icon-collection/power-platform-icons/PowerAutomate_scalable.svg" alt="Power Automate" width="45" height="45" />
-  <img src="https://rinoreji.github.io/icon-collection/power-platform-icons/PowerBI_scalable.svg" alt="Power BI" width="45" height="45" />
-  <img src="https://rinoreji.github.io/icon-collection/power-platform-icons/Dataverse_scalable.svg" alt="Dataverse" width="45" height="45" />
-  <img src="https://rinoreji.github.io/icon-collection/power-platform-icons/PowerPages_scalable.svg" alt="Power Pages" width="45" height="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="45" height="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="45" height="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="Sass" width="45" height="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="45" height="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" alt="Windows" width="45" height="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="45" height="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="SQL" width="45" height="45" />
+  <img src="https://rinoreji.github.io/icon-collection/power-platform-icons/PowerApps_scalable.svg" alt="Power Apps" width="35" height="35" />
+  <img src="https://rinoreji.github.io/icon-collection/power-platform-icons/PowerAutomate_scalable.svg" alt="Power Automate" width="35" height="35" />
+  <img src="https://rinoreji.github.io/icon-collection/power-platform-icons/PowerBI_scalable.svg" alt="Power BI" width="35" height="35" />
+  <img src="https://rinoreji.github.io/icon-collection/power-platform-icons/Dataverse_scalable.svg" alt="Dataverse" width="35" height="35" />
+  <img src="https://rinoreji.github.io/icon-collection/power-platform-icons/PowerPages_scalable.svg" alt="Power Pages" width="35" height="35" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="35" height="35" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="35" height="35" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="Sass" width="35" height="35" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="35" height="35" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" alt="Windows" width="35" height="35" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="35" height="35" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="SQL" width="35" height="35" />
 </p>
 
 ---
