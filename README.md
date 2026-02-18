@@ -22,12 +22,12 @@ Hi! I'm <strong>CHMANGUI Yassine</strong>, a passionate developer and IT enthusi
   <img src="https://rinoreji.github.io/icon-collection/power-platform-icons/PowerBI_scalable.svg" alt="Power BI" width="35" height="35" />
   <img src="https://rinoreji.github.io/icon-collection/power-platform-icons/Dataverse_scalable.svg" alt="Dataverse" width="35" height="35" />
   <img src="https://rinoreji.github.io/icon-collection/power-platform-icons/PowerPages_scalable.svg" alt="Power Pages" width="35" height="35" />
+  <img src="https://rinoreji.github.io/icon-collection/microsoft-office-icons/Teams.svg" alt="Teams" width="35" height="35" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="35" height="35" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="35" height="35" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="Sass" width="35" height="35" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="35" height="35" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" alt="Windows" width="35" height="35" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="35" height="35" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="SQL" width="35" height="35" />
 </p>
 
@@ -65,5 +65,7 @@ Hi! I'm <strong>CHMANGUI Yassine</strong>, a passionate developer and IT enthusi
 ---
 
 <p align="center">
-“Turning ideas into digital reality, one line of code at a time.” 🚀
+  <span style="background-color:#e0e0e0; padding:5px 10px; border-radius:5px;">
+    Turning ideas into digital reality, one line of code at a time. 🚀
+  </span>
 </p>
