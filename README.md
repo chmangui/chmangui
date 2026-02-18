@@ -15,27 +15,15 @@ Hi! I'm <strong>John Doe</strong>, a passionate developer and IT enthusiast dedi
 
 ---
 
-## 🛠️ My Skills
-
 <p align="center">
-<!-- Power Platform -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerapps/powerapps-original.svg" alt="Power Apps" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" alt="Power BI" width="45" height="45"/>
-<img src="https://img.shields.io/badge/Dataverse-0078D7?style=for-the-badge&logo=microsoft&logoColor=white" alt="Dataverse" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sharepoint/sharepoint-original.svg" alt="SharePoint Online" width="45" height="45"/>
-<img src="https://img.shields.io/badge/Power%20Automate-094AB2?style=for-the-badge&logo=microsoft-power-automate&logoColor=white" alt="Power Automate" width="45" height="45"/>
-
-<!-- Front-End -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="Sass" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="45" height="45"/>
-
-<!-- IT Administration & Support -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" alt="Windows" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="SQL" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/your-username/your-repo/main/assets/icons/PowerApps.svg" alt="Power Apps" width="45" />
+  <img src="https://raw.githubusercontent.com/your-username/your-repo/main/assets/icons/PowerAutomate.svg" alt="Power Automate" width="45" />
+  <img src="https://raw.githubusercontent.com/your-username/your-repo/main/assets/icons/PowerBI.svg" alt="Power BI" width="45" />
+  <img src="https://raw.githubusercontent.com/your-username/your-repo/main/assets/icons/Dataverse.svg" alt="Dataverse" width="45" />
+  <img src="https://raw.githubusercontent.com/your-username/your-repo/main/assets/icons/SharePoint.svg" alt="SharePoint Online" width="45" />
+  <!-- And your other icons here -->
 </p>
+
 ---
 
 ## 🌟 Experience
