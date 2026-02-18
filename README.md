@@ -51,13 +51,13 @@ Hi! I'm <strong>CHMANGUI Yassine</strong>, a passionate developer and IT enthusi
 ---
 ## 📫 Connect With Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-profile" target="_blank" style="text-decoration: none;">
+  <a href="https://www.linkedin.com/in/yassine-chmangui-76355424b/" target="_blank" style="text-decoration: none;">
     <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" alt="LinkedIn" width="30" height="30" style="background-color:#e0e0e0; border-radius:5px; padding:5px; margin:5px;" />
   </a>
   <a href="https://github.com/your-username" target="_blank" style="text-decoration: none;">
     <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/github.svg" alt="GitHub" width="30" height="30" style="background-color:#e0e0e0; border-radius:5px; padding:5px; margin:5px;" />
   </a>
-  <a href="mailto:your.email@example.com" style="text-decoration: none;">
+  <a href="mailto:chminguiyassine@hotmail.fr" style="text-decoration: none;">
     <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" alt="Email" width="30" height="30" style="background-color:#e0e0e0; border-radius:5px; padding:5px; margin:5px;" />
   </a>
 </p>
