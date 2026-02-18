@@ -25,7 +25,7 @@ Hi! I'm <strong>Yassine CHMANGUI</strong>, a passionate developer and IT enthusi
 </tr>
 <tr>
 <td>Power Apps<br>Power Automate<br>Power BI</td>
-<td>HTML<br>CSS<br>JavaScript<br>Sass<br>Git</td>
+<td>HTML5<br>CSS3<br>JavaScript<br>Sass<br>Git</td>
 <td>Windows<br>Networking<br>SQL</td>
 </tr>
 </table>
