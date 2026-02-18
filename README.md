@@ -1,14 +1,14 @@
 <h1 align="center">💻 POWER PLATFORM & FRONT-END DEVELOPER | IT SPECIALIST 💻</h1>
 
 <p align="center">
-Hi! I'm <strong>John Doe</strong>, a passionate developer and IT enthusiast dedicated to creating efficient, user-friendly digital solutions.
+Hi! I'm <strong>Yassine CHMANGUI</strong>, a passionate developer and IT enthusiast dedicated to creating efficient, user-friendly digital solutions.
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 - 🔹 Experienced in **Power Platform (Power Apps, Power Automate, Power BI)**
-- 🔹 Skilled in **Front-End Development**: HTML, CSS, JavaScript, React
+- 🔹 Skilled in **Front-End Development**: HTML5, CSS3, JavaScript, Sass, Git
 - 🔹 Strong foundation in **IT Systems & Support**
 - 🔹 Passionate about **automation, optimization, and UX design**
 - 🔹 Lifelong learner committed to adopting new technologies
@@ -25,8 +25,8 @@ Hi! I'm <strong>John Doe</strong>, a passionate developer and IT enthusiast dedi
 </tr>
 <tr>
 <td>Power Apps<br>Power Automate<br>Power BI</td>
-<td>HTML<br>CSS<br>JavaScript<br>React</td>
-<td>Windows & Linux<br>Networking<br>SQL<br>Azure</td>
+<td>HTML<br>CSS<br>JavaScript<br>Sass<br>Git</td>
+<td>Windows<br>Networking<br>SQL</td>
 </tr>
 </table>
 
@@ -43,9 +43,9 @@ Hi! I'm <strong>John Doe</strong>, a passionate developer and IT enthusiast dedi
 
 ## 📫 Connect With Me
 <p align="center">
-<a href="https://www.linkedin.com/in/your-profile" target="_blank">LinkedIn</a> |
+<a href="https://www.linkedin.com/in/yassine-chmangui-76355424b/" target="_blank">LinkedIn</a> |
 <a href="https://github.com/your-username" target="_blank">GitHub</a> |
-<a href="mailto:your.email@example.com">Email</a>
+<a href="mailto:chminguiyassine@hotmail.fr">Email</a>
 </p>
 
 ---
