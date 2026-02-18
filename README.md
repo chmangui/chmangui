@@ -1,9 +1,11 @@
 <h3 align="center">
-Hi all 👋
+Hi, I’m CHMANGUI Yassine 👋
 </h3>
 <p align="center">
-I’m Chmangui Yassine, a Power Platform & Front-End Developer and IT Specialist, passionate about creating efficient, scalable, and user-friendly digital solutions.
+ Power Platform & Front-End Developer | IT Specialist passionate about creating efficient, scalable, and user-friendly digital solutions.
 </p>
+
+---
 
 ### Tech Stack
 <!-- Power Platform -->
@@ -57,9 +59,6 @@ I’m Chmangui Yassine, a Power Platform & Front-End Developer and IT Specialist
 <p align="center">
   <a href="https://www.linkedin.com/in/yassine-chmangui-76355424b/" target="_blank" style="text-decoration: none;">
     <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" alt="LinkedIn" width="30" height="30" style="background-color:#e0e0e0; border-radius:5px; padding:5px; margin:5px;" />
-  </a>
-  <a href="https://github.com/chmangui" target="_blank" style="text-decoration: none;">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/github.svg" alt="GitHub" width="30" height="30" style="background-color:#e0e0e0; border-radius:5px; padding:5px; margin:5px;" />
   </a>
   <a href="mailto:chminguiyassine@hotmail.fr" style="text-decoration: none;">
     <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" alt="Email" width="30" height="30" style="background-color:#e0e0e0; border-radius:5px; padding:5px; margin:5px;" />
