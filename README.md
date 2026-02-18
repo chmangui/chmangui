@@ -44,21 +44,19 @@ Hi! I'm <strong>John Doe</strong>, a passionate developer and IT enthusiast dedi
 ---
 
 ## 🌟 Experience
-- **Power Platform Developer** – Building business solutions with Power Apps, Power Automate, and Power BI  
-- **SharePoint Online Specialist** – Designing and managing SharePoint sites, lists, and workflows  
-- **Front-End Developer** – Creating responsive interfaces with HTML, CSS, Sass, and JavaScript  
-- **IT Specialist** – Providing IT support, system optimization, and networking solutions
+- **Power Platform Developer** – Designed and implemented business solutions using Power Apps, Power Automate, Power BI, and Dataverse  
+- **SharePoint Online Specialist** – Built and managed SharePoint sites, lists, libraries, and workflows for organizations  
+- **Front-End Developer** – Developed responsive interfaces using HTML, CSS, Sass, and JavaScript  
+- **IT Specialist** – Provided IT support, optimized systems, and managed networks
 
 ---
 
-## 🌟 What I Do
-- Build **custom business applications** with Power Apps
-- Automate workflows using **Power Automate**
-- Visualize data insights with **Power BI dashboards**
-- Manage data and build solutions with **Dataverse** and **SharePoint Online**
-- Develop **responsive front-end interfaces** with HTML, CSS, Sass, JavaScript
-- Provide **IT support and optimization** for organizations
-
+## 🌟 Key Projects & Achievements
+- Automated multiple workflows, saving teams hours of manual work using **Power Automate**  
+- Created interactive dashboards in **Power BI** to visualize business data and KPIs  
+- Designed custom **SharePoint Online** portals to improve team collaboration  
+- Developed responsive front-end web pages with **HTML, CSS, and Sass** for internal tools  
+- Streamlined IT processes and improved system uptime across multiple departments
 ---
 
 ## 📫 Connect With Me
