@@ -44,7 +44,7 @@ Hi! I'm <strong>Yassine CHMANGUI</strong>, a passionate developer and IT enthusi
 ## 📫 Connect With Me
 <p align="center">
 <a href="https://www.linkedin.com/in/yassine-chmangui-76355424b/" target="_blank">LinkedIn</a> |
-<a href="https://github.com/your-username" target="_blank">GitHub</a> |
+<a href="https://github.com/chmangui" target="_blank">GitHub</a> |
 <a href="mailto:chminguiyassine@hotmail.fr">Email</a>
 </p>
 
