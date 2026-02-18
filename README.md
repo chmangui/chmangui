@@ -8,7 +8,7 @@ Hi! I'm <strong>Yassine CHMANGUI</strong>, a passionate developer and IT enthusi
 
 ## 👨‍💻 About Me
 - 🔹 Experienced in **Power Platform (Power Apps, Power Automate, Power BI)**
-- 🔹 Skilled in **Front-End Development**: HTML5, CSS3, JavaScript, Sass, Git
+- 🔹 Skilled in **Front-End Development**: HTML5, CSS3, JavaScript, Sass, Git 
 - 🔹 Strong foundation in **IT Systems & Support**
 - 🔹 Passionate about **automation, optimization, and UX design**
 - 🔹 Lifelong learner committed to adopting new technologies
