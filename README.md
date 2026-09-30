@@ -2,7 +2,7 @@
 Hi, I’m CHMANGUI Yassine 👋
 </h3>
 <p align="center">
- Power Platform & Front-End Developer | IT Specialist passionate about creating efficient, scalable, and user-friendly digital solutions.
+ MICROSOFT 365 & POWER PLATFORM SPECIALIST | MODERN WORKPLACE ENGINEER passionate about creating efficient, scalable, and user-friendly digital solutions.
 </p>
 
 ---
